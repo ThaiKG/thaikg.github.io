@@ -6,26 +6,32 @@
         <description>Recent content on Just a random blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 14 Jan 2026 21:59:18 -0600</lastBuildDate><atom:link href="https://thaikg.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Mypost</title>
-        <link>https://thaikg.github.io/posts/mypost/</link>
-        <pubDate>Wed, 14 Jan 2026 21:59:18 -0600</pubDate>
+        <lastBuildDate>Wed, 14 Jan 2026 22:23:23 -0600</lastBuildDate><atom:link href="https://thaikg.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Welcome to My Blog</title>
+        <link>https://thaikg.github.io/posts/welcome-to-my-blog/</link>
+        <pubDate>Wed, 14 Jan 2026 22:23:23 -0600</pubDate>
         
-        <guid>https://thaikg.github.io/posts/mypost/</guid>
-        <description>&lt;p&gt;This is some content&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kd&#34;&gt;public&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kd&#34;&gt;static&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;String&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[]&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;args&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;out&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;This is a print statement&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
+        <guid>https://thaikg.github.io/posts/welcome-to-my-blog/</guid>
+        <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!
+&lt;/h2&gt;&lt;p&gt;Welcome to my new blog! I&amp;rsquo;m excited to start sharing my thoughts, experiences, and knowledge with you all.&lt;/p&gt;
+&lt;h3 id=&#34;what-to-expect&#34;&gt;What to Expect
+&lt;/h3&gt;&lt;p&gt;On this blog, you&amp;rsquo;ll find posts about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Technology &amp;amp; Programming&lt;/strong&gt; - Tips, tutorials, and insights from my coding journey&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Personal Projects&lt;/strong&gt; - Updates on what I&amp;rsquo;m building and learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Random Thoughts&lt;/strong&gt; - Musings on tech, life, and everything in between&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;why-start-a-blog&#34;&gt;Why Start a Blog?
+&lt;/h3&gt;&lt;p&gt;I&amp;rsquo;ve always wanted a place to document my learning journey and share knowledge with others. Writing helps me:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Solidify my understanding of concepts&lt;/li&gt;
+&lt;li&gt;Give back to the community that has helped me so much&lt;/li&gt;
+&lt;li&gt;Track my progress and growth over time&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;stay-tuned&#34;&gt;Stay Tuned
+&lt;/h3&gt;&lt;p&gt;I have some exciting posts lined up. Make sure to check back regularly for new content!&lt;/p&gt;
+&lt;p&gt;Thanks for stopping by! 🚀&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Archives</title>
